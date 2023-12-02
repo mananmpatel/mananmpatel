@@ -42,3 +42,9 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mananmpatel&show_icons=true&locale=en" alt="mananmpatel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mananmpatel&" alt="mananmpatel" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mananmpatel&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+### 📈 My Github Contributions
+![Snake animation](https://github.com/mananmpatel/mananmpatel/blob/output/github-contribution-grid-snake.svg)
