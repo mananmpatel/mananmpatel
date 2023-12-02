@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Manan Patel</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" Width="400" src="https://raw.githubcontent.com/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" Width="400" src="[https://raw.githubcontent.com/devSouvik/master/gif3.gif](https://github.com/devSouvik/devSouvik/blob/master/gif3.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mananmpatel&label=Profile%20views&color=0e75b6&style=flat" alt="mananmpatel" /> </p>
 
