@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mananmpatel&label=Profile%20views&color=0e75b6&style=flat" alt="mananmpatel" /> </p>
 
-- 🔭 I’m currently working on [BulkyBookWeb](https://github.com/mananmpatel/Bulky-Book)
+- 🔭 I was working on [BulkyBookWeb](https://github.com/mananmpatel/Bulky-Book)
 
 - 🌱 I’m currently learning **JavaScript and particularly ReactJS**
 
