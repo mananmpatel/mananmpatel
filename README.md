@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mananmpatel&label=Profile%20views&color=0e75b6&style=flat" alt="mananmpatel" /> </p>
 
+- Currently I am revising the concepts of C# and .NET from the book called Head First C#. So you can follow that on github
+
 - 🔭 I was working on [BulkyBookWeb](https://github.com/mananmpatel/Bulky-Book)
 
 - 🌱 I’m currently learning **JavaScript and particularly ReactJS**
